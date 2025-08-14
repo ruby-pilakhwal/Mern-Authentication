@@ -1,6 +1,7 @@
 # MERN Authentication System 🚀
 
 A **secure** and **scalable** authentication system built using **MongoDB, Express.js, React, and Node.js (MERN)**.
+**Live Demo**: [Click here to try it out](https://mern-authentication-frontendd.onrender.com/)
 
 ## Features ✨
 ✅ User registration & login  
